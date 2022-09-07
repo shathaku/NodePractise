@@ -8,8 +8,8 @@ const config = require('./config.json');
 const app = express();
 const oidc = new ExpressOIDC({
     issuer: 'https://dev-954597.okta.com/oauth2/default',
-    client_id: '0oa124fyoluHYTPyK357',
-    client_secret: 'JA4VXiCySnE5C7grgNzYL8eygoy-QYJn4MiQXu1q',
+    client_id: '',
+    client_secret: '',
     appBaseUrl: 'http://localhost:8181',
     scope: 'openid profile'
 });
