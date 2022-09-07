@@ -1,0 +1,158 @@
+[
+    {
+        "text": "Break",
+        "value": "0",
+        "commentData": [
+            {
+                "text": "Break",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Disruption",
+        "value": "1",
+        "commentData": [
+            {
+                "text": "Disruption",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Firm transportation delay",
+        "value": "2",
+        "commentData": [
+            {
+                "text": "Firm transportation delay",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Intake",
+        "value": "3",
+        "commentData": [
+            {
+                "text": "Intake",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Meeting",
+        "value": "4",
+        "commentData": [
+            {
+                "text": "1:1",
+                "value": "0"
+            },
+            {
+                "text": "Direct CSP support",
+                "value": "1"
+            },
+            {
+                "text": "Project related",
+                "value": "2"
+            },
+            {
+                "text": "Team",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "text": "Non-production",
+        "value": "5",
+        "commentData": [
+            {
+                "text": "Non-production",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Off-screen work",
+        "value": "6",
+        "commentData": [
+            {
+                "text": "Off-screen work",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Other",
+        "value": "7",
+        "commentData": [
+            {
+                "text": "Other",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Partial out-of-office shrinkage",
+        "value": "8",
+        "commentData": [
+            {
+                "text": "Permission",
+                "value": "0"
+            },
+            {
+                "text": "SJO-Half-Day PH",
+                "value": "1"
+            },
+            {
+                "text": "SJO-Half-Day UH",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "text": "Special events",
+        "value": "9",
+        "commentData": [
+            {
+                "text": "Individual",
+                "value": "0"
+            },
+            {
+                "text": "Office-wide",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "text": "Technical issues",
+        "value": "10",
+        "commentData": [
+            {
+                "text": "Technical issues",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "text": "Training",
+        "value": "13",
+        "commentData": [
+            {
+                "text": "External",
+                "value": "0"
+            },
+            {
+                "text": "Graphics",
+                "value": "1"
+            },
+            {
+                "text": "Other",
+                "value": "2"
+            },
+            {
+                "text": "QM",
+                "value": "3"
+            }
+        ]
+    }
+]
